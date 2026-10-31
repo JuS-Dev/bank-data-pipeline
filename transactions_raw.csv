@@ -1,0 +1,303 @@
+txn_id,customer_id,txn_date,amount,category,status
+1,15,2024-02-25,1685.04,  groceries ,failed
+2,11,21.04.2024,625.4 UZS,  transfer ,completed
+3,9,18.04.2025,628.27,transport,completed
+4,21,2025-07-07,2090.89,  transfer ,pending
+5,16,2024-08-06,2162.3,salary,pending
+6,9,10/04/2025,716.7,  transport ,completed
+7,7,30/10/2024,548.16,transport,failed
+8,11,28/02/2024,130.11,transfer,failed
+9,3,2024-07-09,175.96,salary,failed
+10,8,15.08.2025,1488.33,restaurant,pending
+11,7,17/11/2024,600.52,restaurant,pending
+12,11,15/03/2024,28.24,groceries,failed
+13,7,2025-06-02,666.68,transfer,pending
+14,6,24/03/2025,2085.19,restaurant,failed
+15,27,2025-07-21,751.95,utilities,completed
+16,24,2025-07-20,392.84,restaurant,completed
+17,22,2024-09-27,,  groceries ,pending
+18,2,04.01.2024,837.22,  transfer ,failed
+19,23,13/03/2025,"1,404.46",transfer,pending
+20,19,19.07.2025,374.49,utilities,pending
+21,7,12/09/2024,1669.0,SALARY,completed
+22,28,15.06.2024,2440.63,GROCERIES,failed
+23,30,06/12/2024,1957.05,RESTAURANT,pending
+24,6,20.04.2024,959.44,TRANSFER,pending
+25,12,2024-11-08,2052.24,GROCERIES,pending
+26,11,12.10.2024,2161.56,  utilities ,failed
+27,27,03.07.2025,831.22,transfer,completed
+28,4,20.03.2025,867.49,transport,pending
+29,29,13.08.2025,479.25,GROCERIES,pending
+30,14,12/03/2024,2372.44,utilities,failed
+31,29,03.11.2024,1270.27,salary,failed
+32,5,15/07/2024,1054.01,RESTAURANT,failed
+33,19,04.11.2024,1018.16,UTILITIES,pending
+34,26,16.08.2025,1518.62,SALARY,failed
+35,16,22/06/2024,1648.83,restaurant,completed
+36,27,2024-08-28,,transfer,completed
+37,8,01.05.2025,1530.13,SALARY,failed
+38,23,28/01/2025,,restaurant,completed
+39,25,11/03/2025,551.01,  transport ,completed
+40,18,2024-09-12,"2,294.09",salary,pending
+41,20,31.05.2025,1069.72,  transfer ,pending
+42,9,10/09/2024,2100.46,SALARY,pending
+43,15,20.03.2024,,utilities,completed
+44,5,2024-08-24,960.67 UZS,  groceries ,pending
+45,11,09.07.2025,"1,167.48",salary,failed
+46,13,03.05.2025,19.71,SALARY,pending
+47,8,06.10.2024,"1,092.41",  restaurant ,failed
+48,6,23/04/2025,2299.26,  groceries ,failed
+49,19,28.01.2024,214.45,transfer,pending
+50,13,01.12.2024,533.09,  utilities ,pending
+51,27,2024-03-24,1178.42,UTILITIES,failed
+52,3,2024-02-11,1886.81,GROCERIES,completed
+53,5,2025-04-29,1675.3,salary,pending
+54,6,27.04.2024,1945.59 UZS,groceries,pending
+55,19,2025-01-19,994.65,TRANSPORT,completed
+56,23,2024-11-04,2126.48,transport,pending
+57,18,14/03/2025,"1,655.50",utilities,pending
+58,27,16/05/2025,268.32,SALARY,pending
+59,6,18/06/2025,2413.86,  salary ,pending
+60,27,2024-10-01,,  utilities ,completed
+61,25,20.04.2025,1426.77,  groceries ,pending
+62,6,14.05.2025,534.24,utilities,failed
+63,1,13/06/2025,"2,370.42",  salary ,failed
+64,25,03.09.2024,1728.07,salary,completed
+65,10,14/08/2024,,transport,pending
+66,18,27/06/2025,862.67,utilities,failed
+67,15,04/10/2024,,transfer,completed
+68,24,2025-07-02,2377.44,  transfer ,pending
+69,24,2025-06-21,1493.99,UTILITIES,pending
+70,6,05.11.2024,40.3,groceries,failed
+71,10,2024-05-09,1596.48,groceries,pending
+72,16,27.03.2025,855.06,salary,completed
+73,13,2025-05-18,189.84,TRANSFER,failed
+74,10,28.03.2024,"2,484.83",TRANSPORT,failed
+75,13,06/04/2025,2271.72,salary,failed
+76,20,2024-03-02,1526.03,RESTAURANT,pending
+77,22,2024-03-24,396.86 UZS,transfer,pending
+78,15,26/04/2025,,  utilities ,completed
+79,22,27/08/2024,2310.16,TRANSPORT,pending
+80,4,11.07.2025,565.90,transfer,completed
+81,6,10.11.2024,1489.63,salary,pending
+82,23,07/11/2024,1750.84,  transport ,pending
+83,3,10/02/2024,2224.11,utilities,completed
+84,8,12/08/2025,"1,469.87",utilities,completed
+85,16,2025-06-15,1630.52,  transport ,failed
+86,27,18.05.2025,2422.79,utilities,failed
+87,4,13.06.2024,827.86,  restaurant ,failed
+88,2,2025-04-10,,salary,failed
+89,28,09/07/2025,"1,157.63",  utilities ,failed
+90,15,22.02.2024,512.88,  salary ,completed
+91,1,2024-09-02,1775.91,  transport ,completed
+92,8,2024-04-26,"1,156.31",salary,failed
+93,23,06.10.2024,1041.65,  transfer ,failed
+94,5,27/01/2025,480.57,transfer,pending
+95,25,28.02.2025,852.99,groceries,failed
+96,10,2025-08-16,2497.26,  salary ,pending
+97,11,19.07.2025,1908.37,TRANSFER,failed
+98,13,27.08.2024,2140.75,  restaurant ,failed
+99,30,25/01/2025,968.27,  transfer ,completed
+100,5,2025-05-29,2413.56,salary,failed
+101,30,12/04/2025,43.29,transfer,pending
+102,26,28/09/2024,849.71,groceries,failed
+103,28,30/06/2025,953.12,salary,failed
+104,3,2024-08-28,1579.75,restaurant,pending
+105,4,2024-04-12,1111.98,groceries,completed
+106,10,02/01/2025,940.23,SALARY,completed
+107,6,21/03/2024,1525.68,  transfer ,failed
+108,5,25.08.2024,,restaurant,pending
+109,29,21.10.2024,1695.64 UZS,utilities,failed
+110,14,13.09.2024,1144.81,salary,completed
+111,13,08/08/2025,900.6,utilities,failed
+112,13,08/10/2024,25.2,  groceries ,pending
+113,25,23/08/2024,1519.63,transfer,failed
+114,25,20/05/2024,1572.48,groceries,pending
+115,2,16.08.2025,915.33,  utilities ,completed
+116,7,15.05.2024,1967.35,transport,completed
+117,9,08.05.2025,2418.62,  groceries ,completed
+118,5,19.08.2024,2151.05,transport,completed
+119,26,08.02.2025,39.73,utilities,failed
+120,13,2025-01-15,,transport,failed
+121,8,05/03/2024,1590.33,  utilities ,completed
+122,5,16.02.2024,2365.92,groceries,completed
+123,29,04/07/2025,343.48,  restaurant ,failed
+124,24,07.06.2024,2214.11,  transport ,pending
+125,2,2025-01-14,547.09,utilities,failed
+126,12,2025-07-11,2254.73,salary,completed
+127,4,10/04/2025,233.73 UZS,transport,completed
+128,26,07/12/2024,612.70,transfer,failed
+129,7,23.08.2025,543.8,transfer,pending
+130,28,2024-05-28,2468.88,groceries,completed
+131,1,01.01.2025,,GROCERIES,pending
+132,2,09/05/2024,1855.59,  groceries ,pending
+133,25,05/01/2025,"1,285.53",transfer,failed
+134,26,2025-06-17,757.57,  groceries ,pending
+135,14,2024-04-20,1228.22,groceries,failed
+136,5,08/03/2024,319.85,transport,pending
+137,20,27.06.2025,740.77,groceries,failed
+138,21,18.07.2025,1803.5 UZS,  transfer ,pending
+139,27,09.04.2025,999.83,salary,failed
+140,9,18.01.2025,2384.21,groceries,completed
+141,3,2025-03-18,245.93,transport,failed
+142,18,29.07.2025,827.47,  restaurant ,failed
+143,2,21/10/2024,1503.02,TRANSPORT,completed
+144,22,08/05/2025,564.49,utilities,pending
+145,19,19/08/2024,2019.02,transport,failed
+146,30,30.09.2024,77.24,utilities,completed
+147,6,2024-05-26,1417.97,restaurant,completed
+148,24,27.06.2025,541.76,transfer,pending
+149,24,2024-11-28,1943.2,GROCERIES,completed
+150,25,20/02/2024,1686.55,  salary ,failed
+151,15,2025-02-28,686.55,  utilities ,completed
+152,10,2025-05-13,1319.7,salary,completed
+153,7,04.11.2024,2363.58,utilities,completed
+154,1,24.05.2025,1868.8 UZS,TRANSPORT,failed
+155,18,2024-12-28,184.83,salary,pending
+156,30,20/03/2024,2155.96,  salary ,pending
+157,4,18/02/2025,57.04,salary,completed
+158,14,18/04/2024,612.07,  groceries ,pending
+159,24,2024-12-13,557.82,transport,failed
+160,17,17/07/2024,2265.28,RESTAURANT,completed
+161,4,2024-05-29,643.64 UZS,restaurant,completed
+162,25,20/05/2025,1162.56,salary,failed
+163,11,03/06/2024,1102.21,utilities,failed
+164,2,26.12.2024,1270.81,groceries,pending
+165,27,2024-10-20,196.44,  transport ,pending
+166,19,2025-07-21,2385.81,SALARY,pending
+167,20,02.05.2025,1255.91,groceries,failed
+168,3,31/05/2025,"1,617.09",  salary ,failed
+169,17,11.06.2024,912.93,salary,failed
+170,20,2024-02-23,1974.12,utilities,failed
+171,22,30/01/2025,713.95,TRANSPORT,pending
+172,3,19.08.2025,1660.71,  restaurant ,completed
+173,20,27.03.2024,777.41,transfer,failed
+174,22,09.03.2025,"1,273.68",TRANSFER,pending
+175,25,2025-05-12,484.05,groceries,completed
+176,17,2025-07-06,2088.62,restaurant,failed
+177,5,20/01/2025,389.86 UZS,TRANSPORT,failed
+178,15,2024-02-14,1030.09,salary,failed
+179,26,04.04.2025,,transfer,failed
+180,19,27.03.2025,1156.89,  transport ,completed
+181,27,23.07.2024,"2,004.14",  groceries ,pending
+182,18,2024-04-15,1779.95,utilities,completed
+183,9,05.04.2025,"2,263.74",GROCERIES,pending
+184,29,23.12.2024,2326.53,transport,completed
+185,13,2024-03-24,940.41,restaurant,completed
+186,5,09/02/2024,720.76,  transfer ,pending
+187,20,2024-01-06,"2,265.11",  transfer ,completed
+188,25,2024-10-22,597.91,  salary ,completed
+189,4,26/05/2025,"1,493.86",TRANSPORT,failed
+190,5,2024-10-25,1075.95,  transport ,completed
+191,22,28/03/2024,1311.09,transport,pending
+192,28,26.04.2025,113.62,utilities,pending
+193,26,10/03/2024,865.28,groceries,completed
+194,2,2024-12-26,1367.3,  restaurant ,failed
+195,16,05.07.2024,"2,029.69",groceries,completed
+196,2,23.07.2024,2215.05,  transport ,failed
+197,16,16.09.2024,96.37,utilities,failed
+198,11,06.10.2024,315.57,  restaurant ,pending
+199,11,10/07/2024,1243.03,utilities,failed
+200,14,2024-03-21,1079.36,transport,pending
+201,4,22.03.2024,823.16,  transport ,completed
+202,23,30.03.2025,882.11,  transport ,pending
+203,21,28.02.2024,192.23,TRANSPORT,completed
+204,5,24/03/2025,91.82,utilities,pending
+205,19,03.02.2024,1514.71,  utilities ,completed
+206,19,20/05/2024,1326.0,UTILITIES,completed
+207,1,09/07/2024,1250.11,groceries,pending
+208,23,01/04/2025,540.35,SALARY,completed
+209,5,16.03.2024,1132.85,groceries,failed
+210,12,07.03.2024,1377.24,TRANSFER,pending
+211,17,2024-08-17,307.8 UZS,  transfer ,completed
+212,12,21/07/2025,1432.83,transfer,completed
+213,10,11/02/2025,2498.99,  salary ,failed
+214,3,08.05.2024,2431.09,salary,completed
+215,29,2025-07-18,1601.29 UZS,salary,completed
+216,17,05/06/2024,763.79 UZS,transfer,failed
+217,29,17/10/2024,,transport,completed
+218,21,06/11/2024,"1,538.00",TRANSFER,completed
+219,22,2024-12-11,2107.11,groceries,failed
+220,25,13/08/2025,665.32 UZS,salary,pending
+221,29,12.07.2025,727.73,  transfer ,pending
+222,15,15.03.2024,1723.09 UZS,  salary ,completed
+223,11,27/05/2024,784.89,  utilities ,completed
+224,25,2025-01-14,"1,289.88",salary,pending
+225,15,10.09.2024,356.49,  transport ,completed
+226,28,12/06/2024,2034.63,UTILITIES,completed
+227,16,11.06.2025,1169.7,groceries,pending
+228,17,13.04.2025,2416.88 UZS,groceries,pending
+229,16,2025-04-26,717.94,SALARY,pending
+230,24,09.01.2025,1910.82,GROCERIES,pending
+231,18,22/10/2024,188.46,utilities,completed
+232,4,07/02/2025,936.13,UTILITIES,completed
+233,20,2025-06-05,"1,006.46",transfer,pending
+234,17,2025-04-12,376.61,utilities,completed
+235,13,02/11/2024,1486.34,  transport ,failed
+236,19,02.11.2024,"1,189.86",restaurant,pending
+237,19,11/11/2024,1992.9,restaurant,failed
+238,16,28/09/2024,2417.84,TRANSPORT,failed
+239,2,20/08/2025,1203.72,  transport ,completed
+240,27,2024-09-05,83.77,transfer,pending
+241,11,04.03.2025,382.82,  transport ,failed
+242,24,04/03/2024,1765.91,  utilities ,failed
+243,13,17/11/2024,2391.93,utilities,failed
+244,25,2024-09-27,1527.14 UZS,utilities,completed
+245,10,22.10.2024,1763.73,  utilities ,pending
+246,18,07/10/2024,723.03,  salary ,pending
+247,25,29/05/2024,729.68,groceries,pending
+248,21,19/09/2024,1869.61 UZS,utilities,completed
+249,4,23/08/2025,602.01,TRANSFER,completed
+250,4,27/02/2025,829.08,transfer,failed
+251,30,10.06.2024,1020.23,SALARY,pending
+252,11,2024-10-19,1616.52,RESTAURANT,failed
+253,24,2024-02-08,2283.51 UZS,  groceries ,pending
+254,6,23/10/2024,"2,192.47",transport,pending
+255,10,10.04.2025,2472.8,  transfer ,pending
+256,7,25/04/2024,830.06,UTILITIES,completed
+257,24,2024-12-11,1977.97,  transfer ,pending
+258,17,2024-12-01,221.41,  transfer ,pending
+259,30,11.09.2024,22.04,utilities,pending
+260,19,09/08/2025,33.53,transfer,failed
+261,4,21/04/2025,770.48,restaurant,failed
+262,4,2024-10-29,,SALARY,pending
+263,24,17.01.2025,1042.53,TRANSPORT,completed
+264,22,24.03.2024,1316.14,groceries,completed
+265,27,14/07/2025,2257.71 UZS,TRANSFER,pending
+266,28,16/06/2025,1107.39,  transport ,completed
+267,29,2025-06-06,"1,116.48",  transport ,pending
+268,19,29.02.2024,1399.2,restaurant,pending
+269,9,2024-01-04,1865.78,salary,failed
+270,3,2025-07-08,2485.34,salary,pending
+271,14,03/07/2024,1923.59,  restaurant ,pending
+272,29,26.01.2025,1124.1,salary,failed
+273,22,2025-07-06,336.81,  transfer ,failed
+274,5,16.08.2024,2087.88,  salary ,failed
+275,13,23.08.2024,622.54,transfer,completed
+276,26,2025-03-05,1539.23,TRANSFER,completed
+277,4,2024-02-04,1118.87,transfer,pending
+278,15,2024-08-27,1351.7,transfer,completed
+279,27,12/08/2025,800.66,UTILITIES,pending
+280,29,26.05.2024,2464.31,utilities,completed
+281,18,28.06.2024,1566.85,groceries,failed
+282,22,25.01.2025,1965.58,SALARY,pending
+283,13,2024-07-07,1887.27,UTILITIES,pending
+284,30,29/02/2024,1408.15,TRANSPORT,pending
+285,8,18.09.2024,512.33,utilities,failed
+286,24,14/07/2024,133.58,transport,completed
+287,7,26.07.2025,546.46 UZS,utilities,completed
+288,30,13.07.2024,"2,405.38",TRANSFER,pending
+289,30,02.09.2024,1382.44,salary,pending
+290,9,2025-01-03,1284.48,  restaurant ,pending
+291,30,27/07/2024,929.91,TRANSFER,completed
+292,9,20.07.2025,2337.22,UTILITIES,completed
+293,11,23.08.2024,952.7,transport,pending
+294,25,15.05.2025,2416.44,SALARY,failed
+295,26,26.12.2024,427.32,transfer,failed
+296,2,2024-03-17,2363.24,SALARY,failed
+297,8,10/03/2024,"1,769.39",salary,completed
+298,20,09/05/2025,"1,649.91",  transport ,completed
+299,1,26.06.2025,1806.87,  groceries ,completed
+300,4,08/04/2024,,transport,pending
+11,7,17/11/2024,600.52,restaurant,pending
+999,777,2024-05-05,100.0,transfer,completed
