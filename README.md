@@ -29,13 +29,6 @@ sqlite3 bank.db < queries.sql
 ```
 
 ## Project structure
-```
 generate_data.py   # creates synthetic messy data
 pipeline.py        # ETL: extract, transform, validate, load
 queries.sql        # SQL analysis
-```
-
-## Next steps (what I'm learning)
-- Move from SQLite to PostgreSQL
-- Orchestrate the pipeline with Airflow
-- Add unit tests with pytest
